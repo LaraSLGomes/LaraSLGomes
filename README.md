@@ -1,8 +1,5 @@
 ### Oi, Lara aqui!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraSLGomes&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraSLGomes&layout=compact&theme=tokyonight)
-
 - 🖳 Academica em Ciência da Computação
 - 🌱 Estudando as linguagens JavaScript, Python e C++
 - 😄 Foco em BackEnd e Microcontroladores
@@ -20,3 +17,7 @@
  <a href = "mailto:larastephanny05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraSLGomes&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraSLGomes&layout=compact&theme=tokyonight)
+
