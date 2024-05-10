@@ -2,9 +2,8 @@
 
 - Academica em Ciência da Computação
 - Estudando as linguagens JavaScript, Python e C++
-- Foco em BackEnd e Microcontroladores
-
-    <div style="display: inline_block"><br>
+- Foco em BackEnd e Microcontroladores   
+<div style="display: inline_block"><br>
  <img align="center" alt="Lara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Lara-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
  <img align="center" alt="Lara-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
