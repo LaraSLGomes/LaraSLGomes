@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraSLGomes&layout=compact&theme=tokyonight)
 
 - 🖳 Academica em Ciência da Computação
-- 🌱 Estudando as lingugens JavaScript, Python e C++
+- 🌱 Estudando as linguagens JavaScript, Python e C++
 - 😄 Foco em BackEnd e Microcontroladores
 <div style="display: inline_block"><br>
  <img align="center" alt="Lara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
