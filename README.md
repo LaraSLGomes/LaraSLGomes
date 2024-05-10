@@ -1,4 +1,6 @@
-### Oi, Lara aqui!
+#### Oi, Lara aqui!
+
+##Sobre mim:
 
 - Academica em Ciência da Computação
 - Estudando as linguagens JavaScript, Python e C++
