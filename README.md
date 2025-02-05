@@ -3,8 +3,8 @@
 ### Sobre mim:
 
 - Academica em Ciência da Computação
-- Familiaridade com as linguagens JavaScript, Python, C, C++ e Java
-- Foco em BackEnd  
+- Familiaridade com as linguagens Java, Python, JavaScript, C e C++
+- Foco em CiberSegurança e Desenvolvimento 
 <div style="display: inline_block"><br>
  <img align="center" alt="Lara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Lara-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
