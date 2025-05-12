@@ -3,18 +3,21 @@
 ### Sobre mim:
 
 - Academica em Ciência da Computação
-- Familiaridade com as linguagens Java, Python, JavaScript, C e C++
-- Foco em CiberSegurança e Desenvolvimento 
+- Familiaridade com as linguagens Flutter, ReacNative, Node.js, JavaScript, Java, C e C++
+- Foco em Desenvolvimento Mobile
 <div style="display: inline_block"><br>
+ <img align="center" alt="Lara-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg">
+ <img align="center" alt="Lara-reactnative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+ <img align="center" alt="Lara-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
  <img align="center" alt="Lara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Lara-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+ <img align="center" alt="Lara-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
  <img align="center" alt="Lara-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
  <img align="center" alt="Lara-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
- <img align="center" alt="Lara-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+ 
 
 </div>
 
-##
+## 
 
 <div>
   <a href="https://www.linkedin.com/in/lara-stephanny-lima-gomes-0317a82b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
