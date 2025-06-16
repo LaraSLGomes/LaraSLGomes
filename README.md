@@ -4,7 +4,7 @@
 
 - Academica em Ciência da Computação
 - Familiaridade com as linguagens Flutter, ReacNative, Node.js, JavaScript, Java, C e C++
-- Foco em Desenvolvimento Mobile
+
 <div style="display: inline_block"><br>
  <img align="center" alt="Lara-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg">
  <img align="center" alt="Lara-reactnative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
