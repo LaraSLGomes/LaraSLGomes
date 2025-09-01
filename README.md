@@ -3,7 +3,7 @@
 ### Sobre mim:
 
 - Academica em Ciência da Computação
-- Familiaridade com as linguagens Flutter, React, Node.js, JavaScript, Java, C e C++
+- Familiaridade com Flutter, React, Node.js, JavaScript, Java, C e C++
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Lara-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg">
