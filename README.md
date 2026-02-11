@@ -5,7 +5,6 @@ I am a 5th-semester Computer Science student. Currently, I serve as a Scholarshi
 
 ### 🛠️ Tech Stack & Tools
 
-Languages & Technologies
 <div style="display: inline_block"><br>
  <img align="center" alt="Lara-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
  <img align="center" alt="Lara-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">          
