@@ -20,10 +20,9 @@
 ## 
 
 <div>
-  <a href="https://www.linkedin.com/in/lara-stephanny-lima-gomes-0317a82b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lara-stephanny-0317a82b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:larastephanny05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraSLGomes&layout=compact&theme=tokyonight)
