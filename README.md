@@ -1,7 +1,7 @@
 ## Hi there, I'm Lara Stephanny! 👋
 🎓 Computer Science Student | Backend Enthusiast | Full Stack Developer
 
-I am a 5th-semester Computer Science student. Currently, I serve as a Scholarship Holder at PET-SAÚDE DIGITAL, where I focus on the intersection of technology and healthcare.
+Currently a Research Scholar at PET-SAÚDE DIGITAL, working at the intersection of technology and healthcare.
 
 ## 🛠️ Tech Stack & Tools
 
