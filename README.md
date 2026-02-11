@@ -3,9 +3,9 @@
 
 I am a 5th-semester Computer Science student. Currently, I serve as a Scholarship Holder at PET-SAÚDE DIGITAL, where I focus on the intersection of technology and healthcare.
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-<div style="display: inline_block"><br>
+<div>
  <img align="center" alt="Lara-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
  <img align="center" alt="Lara-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">          
  <img align="center" alt="Lara-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
