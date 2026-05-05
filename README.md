@@ -35,7 +35,7 @@ Currently working as a **Software Developer Intern** at UNIFOR's E-learning Depa
 
 ## 🔭 Highlights & Professional Experience
 
-* 💻 **UNIFOR (Distance Learning Dept.):** Frontend Developer working on large-scale educational platforms and digital accessibility.
+* 💻 **UNIFOR (Distance Learning Dept.):** Developer Intern working on large-scale educational platforms and digital accessibility.
 * 🏥 **PET-SAÚDE DIGITAL:** Researching and developing digital health initiatives to democratize healthcare access.
 * 💰 **Project NAF:** Built a web-based pricing platform to help micro-entrepreneurs automate financial management.
 * 🏫 **Academic Mentorship:** One-year teaching assistantship in Computer Science fundamentals.
