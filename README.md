@@ -3,7 +3,7 @@
 
 📍 Based in Brazil | Available for Remote Work Worldwide
 
-Currently working as a **Frontend Developer Intern** at UNIFOR's E-learning Department and a **Research Scholar** at PET-SAÚDE DIGITAL, focusing on the intersection of healthcare and scalable technology.
+Currently working as a **Software Developer Intern** at UNIFOR's E-learning Department and a **Research Scholar** at PET-SAÚDE DIGITAL, focusing on the intersection of healthcare and scalable technology.
 
 ## 🛠️ Tech Stack & Tools
 
